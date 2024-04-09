@@ -1,11 +1,9 @@
-<p align="center">
-        ![Komorebi Logo](/banner.png)
+
+![Komorebi Logo](/banner.png)
+<p align="center">   
     <br /><br />
     <h1 align="center">Welcome to Komorebi Tech Consulting<br /></h1>
 </p>
-
-
-## Who We Are
 
 At Komorebi Tech Consulting, we've been pioneering web and technology solutions for 15 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
 
