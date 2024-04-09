@@ -3,5 +3,49 @@
         <img src="https://images.squarespace-cdn.com/content/v1/62d5a9a7b847737a2480da1f/a0aecce6-fae4-4253-94ba-73a2104b8c92/Website.png?format=1500w" alt="Logo" width="50%">
     </a> -->
     <br /><br />
-    <h1 align="center">Welcome to Komorebi!<br /></h1>
+    <h1 align="center">Welcome to Komorebi Tech Consulting<br /></h1>
 </p>
+
+## Who We Are
+
+At Komorebi Tech Consulting, we've been pioneering web and technology solutions for 15 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
+
+### Our Philosophy
+
+Blending meticulous Japanese attention to detail with London's innovative business landscape, we create digital products that stand the test of time. Our philosophy is rooted in delivering not just solutions, but experiences that are intuitive, elegant, and effective.
+
+## Our Services
+
+- **Progressive Web Apps (PWAs):** Harnessing the latest web technologies to build apps that work everywhere, for everyone.
+- **iOS & Android:**
+- **Website Development:** Crafting responsive and dynamic websites that drive business and captivate users.
+- **Back-End Data Analysis:** Turning data into actionable insights with our comprehensive data science expertise.
+- **UI/UX Design:** Creating seamless user experiences through thoughtful and intuitive design.
+
+## Our Team
+
+We boast a well-rounded team of industry experts:
+
+- **CTO:** [Name], with [X] years in technology leadership.
+- **UI/UX Specialists:** Creating interfaces that speak to the user's needs and preferences.
+- **Translators:** Bridging languages and cultures in our software.
+- ...and many more talented individuals!
+
+## Our Work
+
+Take a look at our [Projects](link-to-your-projects) to see the breadth of our capabilities and the industries we've transformed.
+
+## Get in Touch
+
+Looking to build something amazing or transform your business? [Contact us](your-contact-link) or drop us an email at [info@komorebitech.com](mailto:info@komorebitech.com).
+
+## Follow Us
+
+Stay updated with our latest adventures in technology:
+
+- [Twitter](your-twitter-link)
+- [LinkedIn](your-linkedin-link)
+
+---
+
+Thank you for visiting our GitHub organization page. Star our repositories to keep track of our open source contributions and join us in our journey to make technology as natural and accessible as sunlight through leaves.
