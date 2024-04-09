@@ -5,6 +5,10 @@
     <br /><br />
     <h1 align="center">Welcome to Komorebi Tech Consulting<br /></h1>
 </p>
+![Komorebi Logo](banner.png)
+
+![Komorebi Logo](/banner.png)
+![Komorebi Logo](/assets/banner.png)
 
 ## Who We Are
 
