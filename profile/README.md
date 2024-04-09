@@ -5,7 +5,7 @@
     <p></p>
 </p>
 
-At Komorebi Tech Consulting, we've been pioneering web and technology solutions for 15 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
+At Komorebi Tech Consulting, we've been pioneering web and technology solutions for 20 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
 
 ### Our Philosophy
 
