@@ -1,8 +1,8 @@
 
 ![Komorebi Logo](/banner.png)
 <p align="center">   
-    <br /><br />
     <h1 align="center">Welcome to Komorebi Tech Consulting<br /></h1>
+    <p></p>
 </p>
 
 At Komorebi Tech Consulting, we've been pioneering web and technology solutions for 15 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
@@ -23,8 +23,8 @@ Blending meticulous Japanese attention to detail with London's innovative busine
 
 We boast a well-rounded team of industry experts:
 
-- **CTO:** [Name], with [X] years in technology leadership.
-- **UI/UX Specialists:** Creating interfaces that speak to the user's needs and preferences.
+- **CTOs:** With a combined 20 years in technology leadership.
+- **UI/UX Specialists:** Creating interfaces that speak to the user's needs and preferences and 15 years.
 - **Translators:** Bridging languages and cultures in our software.
 - ...and many more talented individuals!
 
