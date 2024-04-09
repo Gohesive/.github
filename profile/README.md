@@ -5,5 +5,3 @@
     <br /><br />
     <h1 align="center">Welcome to Komorebi!<br /></h1>
 </p>
-
-9
