@@ -46,5 +46,5 @@ Stay updated with our latest adventures in technology:
 ---
 
 <p align="center">
-    <strong>Komorebi - Supporting business, fostering inspiration</strong>
+    <strong>Komorebi - Supporting businesses, fostering inspiration</strong>
 </p>
