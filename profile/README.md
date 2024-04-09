@@ -24,7 +24,7 @@ Blending meticulous Japanese attention to detail with London's innovative busine
 We boast a well-rounded team of industry experts:
 
 - **CTOs:** With a combined 20 years in technology leadership.
-- **UI/UX Specialists:** Creating interfaces that speak to the user's needs and preferences and 15 years.
+- **UI/UX Specialists:** 15 years experience creating interfaces that speak to the user's needs and preferences.
 - **Translators:** Bridging languages and cultures in our software.
 - ...and many more talented individuals!
 
