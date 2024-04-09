@@ -45,4 +45,6 @@ Stay updated with our latest adventures in technology:
 
 ---
 
-Thank you for visiting our GitHub organization page. Star our repositories to keep track of our open source contributions and join us in our journey to make technology as natural and accessible as sunlight through leaves.
+<p align="center">
+    <strong>Komorebi - Supporting business, fostering inspiration</strong>
+</p>
