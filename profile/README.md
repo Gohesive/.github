@@ -17,7 +17,7 @@ Blending meticulous Japanese attention to detail with London's innovative busine
 ## Our Services
 
 - **Progressive Web Apps (PWAs):** Harnessing the latest web technologies to build apps that work everywhere, for everyone.
-- **iOS & Android:**
+- **iOS & Android App Development:** Crafting native and cross-platform mobile apps that provide seamless performance and a high-quality user experience on all devices.
 - **Website Development:** Crafting responsive and dynamic websites that drive business and captivate users.
 - **Back-End Data Analysis:** Turning data into actionable insights with our comprehensive data science expertise.
 - **UI/UX Design:** Creating seamless user experiences through thoughtful and intuitive design.
