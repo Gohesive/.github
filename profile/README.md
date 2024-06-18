@@ -9,7 +9,7 @@ At Komorebi Tech Consulting, we've been pioneering web and technology solutions 
 
 ### Our Philosophy
 
-Blending meticulous Japanese attention to detail with London's innovative business landscape, we create digital products that stand the test of time. Our philosophy is rooted in delivering not just solutions, but experiences that are intuitive, elegant, and effective.
+Blending meticulous Japanese attention to detail with London's innovative business landscape, we create digital products that stand the test of time. Our philosophy is rooted in delivering not just solutions, but experiences that are intuitive, elegant, and effective. 
 
 ## Our Services
 
