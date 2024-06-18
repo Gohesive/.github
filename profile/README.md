@@ -1,11 +1,11 @@
 
-![Komorebi Logo](/banner.png)
+![Gohesive Logo](/banner.png)
 <p align="center">   
-    <h1 align="center">Welcome to Komorebi Tech Consulting<br /></h1>
+    <h1 align="center">Welcome to Gohesive Tech Consulting<br /></h1>
     <p></p>
 </p>
 
-At Komorebi Tech Consulting, we've been pioneering web and technology solutions for 20 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
+At Gohesive Tech Consulting, we've been pioneering web and technology solutions for 20 years. Our name, inspired by the interplay of light and shadow through leaves, symbolizes our approach to technology—illuminating paths and providing guidance with a touch of natural elegance and simplicity.
 
 ### Our Philosophy
 
@@ -34,7 +34,7 @@ Take a look at our [Projects](link-to-your-projects) to see the breadth of our c
 
 ## Get in Touch
 
-Looking to build something amazing or transform your business? [Contact us](your-contact-link) or drop us an email at [info@komorebitech.com](mailto:info@komorebitech.com).
+Looking to build something amazing or transform your business? [Contact us](your-contact-link) or drop us an email at [info@Gohesivetech.com](mailto:info@Gohesivetech.com).
 
 ## Follow Us
 
@@ -46,5 +46,5 @@ Stay updated with our latest adventures in technology:
 ---
 
 <p align="center">
-    <strong>Komorebi - Supporting businesses, fostering inspiration</strong>
+    <strong>Gohesive - Supporting businesses, fostering inspiration</strong>
 </p>
